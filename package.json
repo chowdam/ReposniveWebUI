@@ -1,17 +1,28 @@
 {
-    "name": "responsive-ui-sample",
-    "description": "sample responsive web ui application",
-    "version": "1.0.0",
-    "author": "Chowdam",
-    "license": "ISC",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/chowdam/ReposniveWebUI.git"
-    },
-    "dependencies": {
-        "jquery": "3.2.1",
-        "bootstrap": "3.3.7",
-        "font-awesome": "4.7.0",
-        "jquery-easing": "1.4.1"
-    }
+  "name": "responsive-ui-sample",
+  "version": "1.0.0",
+  "description": "To demonstrate Responsive web user interface",
+  "main": "index.html",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chowdam/ReposniveWebUI.git"
+  },
+  "keywords": [
+    "demo"
+  ],
+  "author": "chowdam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chowdam/ReposniveWebUI/issues"
+  },
+  "homepage": "https://github.com/chowdam/ReposniveWebUI#readme"
 }
